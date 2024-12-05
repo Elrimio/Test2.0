@@ -112,3 +112,4 @@ class TestIntegrationMatrixOperations(unittest.TestCase):
 
 #Коммент, чтобы снова запулить
 #Коммит и пуш 2
+#бэйджик должен исправиться

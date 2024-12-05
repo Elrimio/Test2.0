@@ -1,6 +1,6 @@
 [![CI/CD GitHub Actions](https://github.com/Elrimio/Test2.0/actions/workflows/python-app.yml/badge.svg)](https://github.com/Elrimio/Test2.0/actions/workflows/python-app.yml)
 [![Coverage Status](https://coveralls.io/repos/github/Elrimio/Test2.0/badge.svg?branch=main)](https://coveralls.io/github/Elrimio/Test2.0?branch=main)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test2.02&metric=alert_status)](https://sonarcloud.io/dashboard?id=Elrimio/Test2.0)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test2.0&metric=alert_status)](https://sonarcloud.io/dashboard?id=Elrimio/Test2.0)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test2.0&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Elrimio_Test2.0)
 [![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Elrimio_Test2.0&metric=code_smells)](https://sonarcloud.io/dashboard?id=Elrimio_Test2.0)
 

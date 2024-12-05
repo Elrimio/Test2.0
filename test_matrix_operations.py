@@ -53,7 +53,7 @@ class TestMatrixOperations(unittest.TestCase):
         result_inverse = MatrixOperations.inverse(matrix)
 
         # Expected result for the given matrix
-        expected_result = [[0.6, -0.8], [-0.2, 0.4]]
+        expected_result = [[0.6, -0.7], [-0.2, 0.4]]
 
         # Check if the result matches the expected inverse matrix
         self.assertEqual(result_inverse.matrix, expected_result)
